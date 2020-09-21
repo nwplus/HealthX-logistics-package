@@ -8,7 +8,7 @@
 
 ## Food
 
-- [Coffee](Food/Coffee.md)
+- [Coffee](Food/coffee.md)
 
 ## Venue
 
