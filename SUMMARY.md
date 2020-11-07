@@ -21,5 +21,6 @@
 ## Marketing Materials
 
 ## Miscellaneous items
+- [Miscellaneous items](MiscellaneousItems/Misc.md)
 
 
