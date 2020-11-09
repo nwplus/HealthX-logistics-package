@@ -1,20 +1,19 @@
-# :notebook: Miscellaneous items
-## :tshirt: Swag :
+# 📓 Miscellaneous items
+## 👕 Swag :
 To eliminate waste, we usually we try to order slightly under the number of participants we expect.
-
 ### Some Swag ideas 
 - **T-shirts**
     We generally order T-shirts for hackers, organizers, volunteers, mentors and sponsors. Listed below are the percentages of the sizes we usually get. Adjust them to fit your target audience.
 
-    **S:** %24
+    - **S:** %24
 
-    **M :** %50
+    - **M :** %50
 
-    **L :** %23
+    - **L :** %23
 
-    **XL :** %2
+    - **XL :** %2
 
-    **XXL :** %1
+    - **XXL :** %1
 
 - **Stickers**
     **StickerMule** (MLH has a $200-off promo code per hackathon)
@@ -30,12 +29,17 @@ To eliminate waste, we usually we try to order slightly under the number of part
 - **Socks**
 Would be great to offer eco friendly options as well, e.g. planting a tree for each participant
 
-## :pencil2: Slack :
+## ✏️  Slack :
 [Link to Slack workspace]()
 
-## :dollar: Itemized budget :
+## 💵 Itemized budget :
 [Link to Google sheets](https://docs.google.com/spreadsheets/d/1IgYSmirbBZehfhA4917lgZM-HZuKWXTVirpjYpmuaOs/edit?usp=sharing)
 
-## :lock: Account logins :
-**Gmail** : HealthXLogistics@gmail.com
-**password** : H@ckhead3nergy
+## 💰 Sponsorship Package :
+
+## 🔒 Account logins :
+**Gmail :** HealthXLogistics@gmail.com
+
+**Devpost :** Login with HealthXLogistics@gmail.com google account.
+
+

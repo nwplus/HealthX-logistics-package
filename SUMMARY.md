@@ -3,7 +3,7 @@
 - [Introduction](README.md)
 
 ## Timeline
-
+- [Timeline](Timeline.md)
 ## Schedule / Events
 
 ## Food
@@ -21,6 +21,6 @@
 ## Marketing Materials
 
 ## Miscellaneous items
-- [Miscellaneous items](MiscellaneousItems/Misc.md)
+- [Miscellaneous items](Miscellaneous_Items/Misc.md)
 
 
