@@ -1,4 +1,0 @@
-# 💻 Hacker Application Form
-The hacker application form is a Google Form that is sent out to the public as part of the volunteer recruitment process. Attached below is a link to a skeleton of a HealthX Volunteer Application Form. Please make sure to go through the form carefully as most of the details will need be changed. For example, the hackathon that the form was based of off offered travel grants, which can be deleted if HealthX is not planning to offer travel grants. Also note that the MLH-related fields are only necessary if HealthX decides to be a MLH member event. In the past, long answer questions have been used as a way to evaluate hacker applications. Long answer questions may not be necessary if HealthX decides to admit hackers on a first come first serve basis. 
-
-👉 [Hacker application form link](https://docs.google.com/forms/d/1r666IgGqJyfUgRAof67O29tC8nwsY5bz4-RGDgRQBtM/edit)
