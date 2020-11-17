@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "gitbook": "^2.6.9",
     "gitbook-plugin-advanced-emoji": "^0.2.2"
   }
 }
