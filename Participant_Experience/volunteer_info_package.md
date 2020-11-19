@@ -25,7 +25,7 @@ While enacting as a volunteer and representative of cmd-f we expect you to:
 - Wear your volunteer t-shirt and name tag
 - Have Slack installed on your phone & join the hackathon workspace
 - Use inclusive language (e.g. “Hey everyone/friends/y’all!” instead of “Hey guys!”)
-- 
+  
 ### Communication
 
 Communication is key, and **all volunteers must be part of [our awesome Slack workspace!](https://bit.ly/2P0IqMC)** Please register and log-in as soon as possible, as well as **set your display name to "<insert name here> (volunteer)"**. This way we can add you to our *private* **#volunteer** channel. Additionally, please read through the following information to be prepared for the hackathon when you arrive:
