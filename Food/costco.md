@@ -1,4 +1,4 @@
-### :yum: Costco Shopping List of Snacks
+### 😋 Costco Shopping List of Snacks
 
 - gum
 - sparkling water (la croix, perrier, san pell., etc.)

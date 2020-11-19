@@ -1,4 +1,4 @@
-### :e-mail: RSVP + Info Emails
+# 📧 RSVP + Info Emails
 ### Hacker RSVP Email
 
 Hey, you made it! 🎉
@@ -148,8 +148,8 @@ In order to prepare you for the event, you are required to attend *one* of our m
 
 We will be sending out location information before the orientation sessions occur. If you are absolutely unable to attend either orientation session but still wish to volunteer, please still complete the RSVP and just let us know at your earliest convenience by emailing us back. 💪
 
-**To secure your volunteer position, please [RSVP here](https://forms.gle/8W4xzMeiScsifQ2e9) by `<RSVP Deadline Date and Time>`.**
+**To secure your volunteer position, please [RSVP here](https://docs.google.com/forms/d/1ehdhOE3dZ21n6OrlMlTTCvwA-NbL4sGMmijX5jpWp3A/edit) by `<RSVP Deadline Date and Time>`.**
 
 Your friends,
 
-The healthX Team
+The HealthX Team

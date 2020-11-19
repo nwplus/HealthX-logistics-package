@@ -1,4 +1,4 @@
-### :mailbox_with_mail: Post Event Emails
+### 📬 Post Event Emails
 #### (Example post event email for hackers)
 ##### We hope you enjoyed your time at HealthX! ✨
 

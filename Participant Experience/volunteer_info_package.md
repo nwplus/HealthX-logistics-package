@@ -1,3 +1,0 @@
-# Mentor Info package
-
-TODO:

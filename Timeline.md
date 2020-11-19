@@ -4,11 +4,11 @@
 
 **Apply to be a MLH Member event** 
 
-- Major League Hacking (MLH) is a company that operates a league for student hackathons. By partnering with them, HealthX will be added to their roster of hackathons and they will provide guidance and help along the planning process. MLH provides hackathon organizing mentors as well as a hardware rental lab for your hackathon. The application to be a MLH member event needs to be done **4 months before the event date.** To apply the follow items are needed : **Venue confirmation, [Itemized event budget](Miscellaneous_Items/Misc.md), Sponsorship package  (Link) , Potential sponsors list. Apply here :** [https://mlh.io/event-membership](https://mlh.io/event-membership)
+- Major League Hacking (MLH) is a company that operates a league for student hackathons. By partnering with them, HealthX will be added to their roster of hackathons and they will provide guidance and help along the planning process. MLH provides hackathon organizing mentors as well as a hardware rental lab for your hackathon. The application to be a MLH member event needs to be done **4 months before the event date.** To apply the follow items are needed : **Venue confirmation, [Itemized event budget](Miscellaneous_Items/Misc.md), [Sponsorship package](Miscellaneous_Items/Misc.md), Potential sponsors list. Apply here :** [https://mlh.io/event-membership](https://mlh.io/event-membership)
 
 **Book required venues**
 
-- There are a few rooms that are generally recommended for a hackathon.  More information in the [Venue](Venue/map.md) section.
+- There are a few rooms that are generally recommended for a hackathon.  More information in the [Venue](Venue/venue.md) section.
 
 **Book venue services if needed**
 
@@ -30,17 +30,17 @@
 
 **Research and order meals** 
 
-- Included here are some examples and suggestions of meals that we usually have for our hackathons : **(Link to meal resource)**
+- Included [here](Food/menu.md) are some examples and suggestions of meals that we usually have for  hackathons.
 
 **Finalize schedule and tasks for event** 
 
-- Linked here is a template schedule for HealthX. It also includes some scheduled tasks throughout the event, like garbage clean-up : **(link to schedule template)**
+- Linked [here](Schedule_&_Events/schedule.md) is a template schedule for HealthX. It also includes some scheduled tasks throughout the event, like garbage clean-up.
 
 ### 🍌 2 Months
 
 **Release the website and start marketing the event**
 
-- (link to marketing page)
+- [Marketing Materials](Marketing/Marketing.md)
 
 **Finalize meal orders**
 
@@ -56,15 +56,15 @@
   
 **Plan workshop slots** 
 
-- Work with sponsors or mentors to schedule and plan the workshops for the event. These should be educational/helpful to the hackers. Sponsors may also want to promote their technology or company. There are some workshop slots in the template schedule. (link to template schedule)
+- Work with sponsors or mentors to schedule and plan the workshops for the event. These should be educational/helpful to the hackers. Sponsors may also want to promote their technology or company. There are some workshop slots in the [template schedule](Schedule_&_Events/schedule.md).
 
 **Plan pre-hackathon workshops** 
 
-- We usually host a few workshops the weeks leading up to the main event. These workshops are aimed more towards hackathon beginners and are a great way to market the event and serve as an introduction to the event.  Workshop materials can be found here : (Link to pre-hackathon workshops)
+- We usually host a few workshops the weeks leading up to the main event. These workshops are aimed more towards hackathon beginners and are a great way to market the event and serve as an introduction to the event.  Workshop materials can be found [here](Schedule_&_Events/pre_hackathon_workshops.md).
 
 **Open hacker applications**
 
-- This should be done about 5 weeks from the event  (link to google form)
+- This should be done about 5 weeks from the event, the forms can be found [here](Forms/forms.md).
 
 ### 🍇 1 Months
 
@@ -76,7 +76,7 @@
 
 **Review judging process**
 
-- (Link to judging)
+- [Judging guide](Participant_experience/judging_how_to.md)
 
 **Buy/prepare prizes**
 
@@ -84,21 +84,21 @@
 
 **Ask for volunteers for the event if needed**
 
-- Ask volunteers to apply through google form : (link to google form)
+- Ask volunteers to apply through google form [here](Forms/forms.md).
 
 **Open mentor applications for the event**
 
-- Ask mentors to apply through google form : (link to google form)
+- Ask mentors to apply through google form  [here](Forms/forms.md).
 
-**Create opening ceremony slides**
+**Create [Opening ceremony slides](Templates/ceremonies_slides.md)**
 
-**Create closing ceremony slides**
+**Create [Closing ceremony slides](Templates/ceremonies_slides.md)**
 
-**Create volunteer information package**
+**Create [Volunteer information package](Participant_experience/volunteer_info_package.md)**
 
-**Create mentor info package**
+**Create [Mentor info package](Participant_experience/mentor_info_package.md)**
 
-**Create hacker information package**
+**Create [Hacker information package](Participant_experience/hacker_info_package.md)**
 
 ### 🍎 3 Weeks
 
@@ -106,7 +106,8 @@
 
 - This can be done on a set deadline or once capacity is hit. Capacity should be about a little more than 2 time expected attendance. Anyone else can be added to waitlist or at this point sign-ups can just be closed in general.
 
-**Send out volunteers RSVP form**
+**Send out Volunteers RSVP form**
+- The email can be found [here](Templates/info_rsvp.md), and the form can be found [here](https://docs.google.com/forms/d/1ehdhOE3dZ21n6OrlMlTTCvwA-NbL4sGMmijX5jpWp3A/edit).
 
 ### 🍈 2 Weeks
 
@@ -114,23 +115,19 @@
 
 - Photos and other media can really help when promoting the event in future years. Hackers and sponsors also generally appreciate photos of them with other attendees at the event. Photographers can be organizers or volunteers that have experience with photography. They should be compensated with swag and food for helping out with the event. General photos of of hackers are good for most of the event, always try to get a variety of people. **There will be some attendees that do not consent to having their photo taken.** These attendees should wear a highlighted nametag or something that will make them easily identifiable to photographers.
 
-**Send out volunteer information package**
+**Send out [Volunteer information package](Participant_Experience/volunteer_info_package.md)**
 
-- (Link to volunteer info package)
 
 **Send out hacker RSVP form**
 
-- Send out RSVP forms to collect basic information about the hackers. Send out the RSVP email to more hackers than the event's capacity. We usually expect about a 40%- 50% of the people who RSVP to show up. After initial spots are filled up, everyone else should go onto a waitlist. RSVP form linked here : (Link)
+- Send out RSVP forms to collect basic information about the hackers. Send out the RSVP email to more hackers than the event's capacity. We usually expect about a 40%- 50% of the people who RSVP to show up. After initial spots are filled up, everyone else should go onto a waitlist. RSVP form linked [here](https://docs.google.com/forms/d/1AHM_ANo98bwuVD3V-1XnIOrDv6-gh77iluCgw2UWyd0/edit) and email can be found [here](Templates/info_rsvp.md).
 
-**Close mentor applications and send out mentor information email**
+**Close mentor applications and send out [mentor information email](Templates/info_rsvp.md) and [mentor information email](Participant_Experience/mentor_info_package.md)**
 
-- (link to mentor email)
 
 ### 🍍 1 Week
 
-**Send out hacker information package**
-
-- (Link to hacker info package)
+**Send out [hacker information package](Participant_Experience/hacker_info_package.md)**
 
 **Send Waivers to hackers by email**
 
@@ -140,7 +137,8 @@
 
 - A nice gesture to show appreciation to sponsors, mentors, and speakers for helping out with the event.
 
-**Host pre-hackathon workshops :**  (Link to pre-hackathon workshops)
+**Host pre-hackathon workshops** 
+- Read more about the workshops and find the slides [here](Schedule_&_Events/pre_hackathon_workshops.md).
 
 **Create Slack workspace** 
 
@@ -153,19 +151,19 @@
     - Announcing mini events
     - Submission deadlines
     - Judging instruction
+- Slack linked [here](Miscellaneous_Items/Misc.md)
 
 **Order coffee** (optional)
 
-- (link to food page)
+- [Coffee](Food/coffee.md)
 
 **Buy food/supplies**
 
-- (List of supplies usually needed to be purchased)
-- (link to food page)
+- [Food shopping list](Food/costco.md)
 
 **Set up Devpost** 
 
-- All submissions for the hackathon will be submitted via Devpost. The Devpost for HealthX can be found here : ([https://healthx-2021.devpost.com/](https://healthx-2021.devpost.com/)) Devpost allows the hackers to share their project and for organizers to assign winners and prizes.
+- All submissions for the hackathon will be submitted via Devpost. The Devpost for HealthX can be found here : [healthx-2021.devpost.com](https://healthx-2021.devpost.com/). Devpost allows the hackers to share their project and for organizers to assign winners and prizes.
 
 **Schedule in organizers and volunteers**
 
@@ -179,7 +177,8 @@
 
 **Send post event emails**
 
-- The post event emails should recap the event, thank you sponsors and mentors and include a link to feedback forms : (Link to post event emails and feedback form)
+- The post event emails should recap the event, thank you sponsors and mentors and include a link to the feedback form.
+- Emails can be found [here](Templates/post_event.md) and feedback forms can be found [here](Forms/Forms.md).
 
 **Follow up with travel reimbursements**
 

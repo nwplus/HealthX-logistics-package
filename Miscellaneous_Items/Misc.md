@@ -30,7 +30,8 @@ To eliminate waste, we usually we try to order slightly under the number of part
 Would be great to offer eco friendly options as well, e.g. planting a tree for each participant
 
 ## ✏️  Slack :
-[Link to Slack workspace]()
+Slack workspace : healthx2021.slack.com
+Sign in with HealthXLogistics@gmail.com
 
 ## 💵 Itemized budget :
 [Link to Google sheets](https://docs.google.com/spreadsheets/d/1IgYSmirbBZehfhA4917lgZM-HZuKWXTVirpjYpmuaOs/edit?usp=sharing)

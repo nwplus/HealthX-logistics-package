@@ -1,4 +1,4 @@
-### :video_game: Mini-event ideas
+# 🎮 Mini-event ideas
 Mini-events are small optional events where hackers can have some fun and win some prizes.
 
 - **MLH cup stacking**
