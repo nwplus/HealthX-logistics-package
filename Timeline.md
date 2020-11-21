@@ -94,11 +94,11 @@
 
 **Create [Closing ceremony slides](Templates/ceremonies_slides.md)**
 
-**Create [Volunteer information package](Participant_experience/volunteer_info_package.md)**
+**Create [Volunteer information package](Participant_Experience/volunteer_info_package.md)**
 
-**Create [Mentor info package](Participant_experience/mentor_info_package.md)**
+**Create [Mentor info package](Participant_Experience/mentor_info_package.md)**
 
-**Create [Hacker information package](Participant_experience/hacker_info_package.md)**
+**Create [Hacker information package](Participant_Experience/hacker_info_package.md)**
 
 ### 🍎 3 Weeks
 
