@@ -28,9 +28,9 @@ While enacting as a volunteer and representative of cmd-f we expect you to:
   
 ### Communication
 
-Communication is key, and **all volunteers must be part of [our awesome Slack workspace!](https://bit.ly/2P0IqMC)** Please register and log-in as soon as possible, as well as **set your display name to "<insert name here> (volunteer)"**. This way we can add you to our *private* **#volunteer** channel. Additionally, please read through the following information to be prepared for the hackathon when you arrive:
+Communication is key, and **all volunteers must be part of our awesome Slack workspace!** Please register and log-in as soon as possible, as well as **set your display name to "name (volunteer)"**. This way we can add you to our *private* **#volunteer** channel. Additionally, please read through the following information to be prepared for the hackathon when you arrive:
 
-1. Arrive 10-15 minutes early and check in with any of the nwPlus organizers in the Organizer/Volunteer room (**`ROOM`**) - here you will also receive your volunteer name tag and t-shirt which you will wear for the duration of your shifts. Feel free to leave your stuff here, this room will be monitored at all times. 🪐
+1. Arrive 10-15 minutes early and check in with any of the nwPlus organizers in the Organizer/Volunteer room - here you will also receive your volunteer name tag and t-shirt which you will wear for the duration of your shifts. Feel free to leave your stuff here, this room will be monitored at all times. 🪐
 2. Head off to your assigned shift location. Once there, report to the "boss" of your shift and await further instructions. 🌝
 3. Feel free to message the **#volunteers-photographers** channel on Slack or reach out to nwPlus organizers if you are lost or need any help! 🙋
 4. During your shift, do not be afraid to let the nwPlus organizers know if you have any questions or concerns about your task, including if you are feeling tired or unwell and in need of a break. Your own health and safety come first! 💪
@@ -49,7 +49,7 @@ Feel free to walk around, meet new people and talk to our amazing sponsors if yo
      - Feel free to check up on sponsors, and make sure they're doing well!
      - Quick task ~10 mins, no need to check in with boss at start just go ahead!
  - If you are not assigned to any tasks during your shift or you find yourself having some downtime, feel free to attend workshops/mini-events, wander around the hackathon, take a break in the organizers/volunteers room, or even ask a HealthX organizer if there is anything else you can do to help out!
- - If you are unable to make a shift, please contact one of the [organizers](https://www.notion.so/nwplus/Organizer-Contact-Info-879ff9c154e240679c19183a735cf503)!
+ - If you are unable to make a shift, please contact one of the organizers!
 
  Note: You may find a few overlapping/conflicting tasks, **please prioritize tasks with the least amount of volunteers** as we'll need your help there more!
 
@@ -74,7 +74,7 @@ On the rare occasion we are not responsive on Slack during the event, feel free 
       - Evacuate the building immediately through the nearest emergency exit
       - Call **911**, the building address is `address`
   - **In the case of an injury:**
-      - Contact an [nwPlus organizer](https://www.notion.so/nwplus/Organizer-Contact-Info-879ff9c154e240679c19183a735cf503)!
+      - Contact an nwPlus organizer!
       - If the injury or illness is severe, call **911**
   - If at any point over the weekend you feel uncomfortable for whatever reason, please come to a nwPlus organizer or our MLH rep
   - The use of alcohol or drugs is strictly forbidden.
