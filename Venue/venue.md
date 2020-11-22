@@ -4,7 +4,7 @@
     - Needs enough tables, chairs to facilitate 150~ on top of sponsored tables, snack tables, food tables, mentor areas
 - Separate meal space may be needed
 - Opening and closing ceremony venue (usually a lecture hall or any space where a presentation can be done)
-- Safe space room ( quiet and private room that hackers can access, generally used for prayer or if someone needs some privacy)
+- Safe space room (quiet and private room that hackers can access, generally used for prayer or if someone needs some privacy)
 - Sleeping rooms
 - Organizer HQ (space for organizers to sleep, leave their personal belongings, plan, work)
 - Mentor/sponsor HQ (space for mentors to organize themselves, store items/swag, etc.)
