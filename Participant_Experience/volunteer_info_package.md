@@ -1,7 +1,7 @@
 # Volunteer Info package
 
 ### Intro and Expectations
-On behalf of nwPlus, we would like to personally thank you for volunteering your time to help make `HACKATHON NAME` a reality. While you are volunteering as event support staff, you are also essentially playing a bigger role: an nwPlus Ambassador! You will be representing nwPlus and your volunteer experience will directly impact the hacker experience. We're super stoked to have you, and we hope you're excited too! 😍
+On behalf of nwPlus, we would like to personally thank you for volunteering your time to help make HealthX a reality. While you are volunteering as event support staff, you are also essentially playing a bigger role: an nwPlus Ambassador! You will be representing nwPlus and your volunteer experience will directly impact the hacker experience. We're super stoked to have you, and we hope you're excited too! 😍
 
 Whether you applied to make a contribution to the community, to network and meet new people, or even simply because you want to volunteer with your friends, we are immensely grateful for your time. By volunteering with us, you will be able to:
 
@@ -28,7 +28,7 @@ While enacting as a volunteer and representative of cmd-f we expect you to:
   
 ### Communication
 
-Communication is key, and **all volunteers must be part of our awesome Slack workspace!** Please register and log-in as soon as possible, as well as **set your display name to "name (volunteer)"**. This way we can add you to our *private* **#volunteer** channel. Additionally, please read through the following information to be prepared for the hackathon when you arrive:
+Communication is key, and **all volunteers must be part of our awesome Slack workspace!** Please register and log-in as soon as possible, as well as **set your display name to 'name (volunteer)'**. This way we can add you to our *private* **#volunteer** channel. Additionally, please read through the following information to be prepared for the hackathon when you arrive:
 
 1. Arrive 10-15 minutes early and check in with any of the nwPlus organizers in the Organizer/Volunteer room - here you will also receive your volunteer name tag and t-shirt which you will wear for the duration of your shifts. Feel free to leave your stuff here, this room will be monitored at all times. 🪐
 2. Head off to your assigned shift location. Once there, report to the "boss" of your shift and await further instructions. 🌝
