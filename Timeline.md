@@ -66,7 +66,7 @@
 
 - This should be done about 5 weeks from the event, the forms can be found [here](Forms/forms.md).
 
-### 🍇 1 Months
+### 🍇 1 Month
 
 **Post reminder on Facebook event page when there is one week left to register for the event or capacity for the event is at ~80%**
 
@@ -84,11 +84,11 @@
 
 **Ask for volunteers for the event if needed**
 
-- Ask volunteers to apply through google form [here](Forms/forms.md).
+- Ask volunteers to apply through Google form [here](Forms/forms.md).
 
 **Open mentor applications for the event**
 
-- Ask mentors to apply through google form  [here](Forms/forms.md).
+- Ask mentors to apply through Google form  [here](Forms/forms.md).
 
 **Create [Opening ceremony slides](Templates/ceremonies_slides.md)**
 
@@ -106,7 +106,7 @@
 
 - This can be done on a set deadline or once capacity is hit. Capacity should be about a little more than 2 time expected attendance. Anyone else can be added to waitlist or at this point sign-ups can just be closed in general.
 
-**Send out Volunteers RSVP form**
+**Send out volunteers RSVP form**
 - The email can be found [here](Templates/info_rsvp.md), and the form can be found [here](https://docs.google.com/forms/d/1ehdhOE3dZ21n6OrlMlTTCvwA-NbL4sGMmijX5jpWp3A/edit).
 
 ### 🍈 2 Weeks
@@ -129,11 +129,11 @@
 
 **Send out [hacker information package](Participant_Experience/hacker_info_package.md)**
 
-**Send Waivers to hackers by email**
+**Send waivers to hackers by email**
 
 - Hackers need to sign image/media waivers and liability waivers before attending the event. If hackers do not want to be photographed they need to specify this at registration on the day of the event. The forms can either be printed out or signed digitally and emailed back to the organizing team. Find the waivers [here](https://drive.google.com/drive/folders/1wBJgHg1_yV9YfHGYQAqnSbi6gxtqDQRq?usp=sharing) on google drive.
 
-**Buy gifts for sponsors, mentors, and speakers (Optional)**
+**Buy gifts for sponsors, mentors, and speakers (optional)**
 
 - A nice gesture to show appreciation to sponsors, mentors, and speakers for helping out with the event.
 
@@ -142,10 +142,10 @@
 
 **Create Slack workspace** 
 
-- Slack is the main form of communication with the hackers during the event. Each channel has a specific purpose and special permissions. It is recommended to get familiar with how to use Slack before the event.  Leverage it to communicate clearly and to engage with attendees.  (Link to slack)
+- Slack is the main form of communication with the hackers during the event. Each channel has a specific purpose and special permissions. It is recommended to get familiar with how to use Slack before the event.  Leverage it to communicate clearly and to engage with attendees.
 - Most of the channels are self explanatory and have different permissions for hackers and organizers. Make sure to have organizers monitoring the slack for issues, questions and misuse. Optionally we will hold contests (trivia, guessing games) for small prizes in one of our slack channels.
     - Examples include: #announcements #ask-organizers #slack-contest #random #general #ask-mentors #ask-sponsors #sponsor-1...
-- It is advised to write out template slack messages before the day of the event, so that things will go faster. Some recommended messages to pre write would be :
+- It is advised to write out template Slack messages before the day of the event, so that things will go faster. Some recommended messages to pre-write would be :
     - Announcing mealtimes
     - Announcing workshops
     - Announcing mini events
@@ -163,7 +163,7 @@
 
 **Set up Devpost** 
 
-- All submissions for the hackathon will be submitted via Devpost. The Devpost for HealthX can be found here : [healthx-2021.devpost.com](https://healthx-2021.devpost.com/). Devpost allows the hackers to share their project and for organizers to assign winners and prizes.
+- All submissions for the hackathon will be submitted via Devpost. The Devpost for HealthX can be found here: [healthx-2021.devpost.com](https://healthx-2021.devpost.com/). Devpost allows the hackers to share their project and for organizers to assign winners and prizes.
 
 **Schedule in organizers and volunteers**
 
@@ -186,4 +186,4 @@
 
 **Contact winners to distribute prizes**
 
-- Make sure all winners get their prizes. If some sponsors would like to get in touch with the teams directly for their prizes, pass on the contact info
+- Make sure all winners get their prizes. If some sponsors would like to get in touch with the teams directly for their prizes, pass on the contact info.
