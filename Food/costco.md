@@ -1,4 +1,4 @@
-### 😋 Costco Shopping List of Snacks
+## 😋 Costco Shopping List of Snacks
 
 - gum
 - sparkling water (la croix, perrier, san pell., etc.)
@@ -7,27 +7,27 @@
 - fruit cups
 - big bags of chips/popcorn/snacks
 - san pellegrino / a fancier pop
-- bfast - GF cereal
+- breakfast - cereal
 - assorted candy packs (fruit by the foot, welches, etc.)
 - a diet pop
 - water bottles 500ml
 - instant cup noodles
 - hot chocolate powder
 - assorted pops (coke, sprite, etc.)
-- swiss delice chocolates
-- bfast - something without eggs, GF, etc.
-- bfast - muffins
+- chocolates
+- breakfast - something without eggs, GF, etc.
+- breakfast - muffins
 - fruit - bananas
-- bfast - croissants
+- breakfast - croissants
 - nutella / peanut butter / jam
-- bfast - assorted pastries (i.e. strudels, danish)
+- breakfast - assorted pastries (i.e. strudels, danish)
 - rice crispies
 - fruit juice
-- bfast - bagels
+- breakfast - bagels
 - soy milk
 - tea bags
 - individually packed cookies (i.e. Dad's)
-- bfast - bread loaves
+- breakfast - bread loaves
 - fruit - mandarin oranges
 - almond milk
 - kirkland granola bars
@@ -35,5 +35,4 @@
 - dairy milk
 - nice assorted pastries+dessert+snacks for mentors lounge
 - iced tea / non carbonated drink
-- bfast - assorted cereals
 - goldfish crackers

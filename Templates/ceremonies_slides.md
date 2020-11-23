@@ -1,5 +1,5 @@
 ### 📊 Opening ceremonies slides (Template)
-👉 [Link to opening ceremony slides](https://docs.google.com/presentation/d/1-6QnM6x88dGZwmxUEgL-zf3x1eP_Q36KQYUNX-elMrg/edit?usp=sharing)
+👉 [Link to opening ceremony slides](https://docs.google.com/presentation/d/10gvR8hRFwrTCv5ZKiSFph5X18GTLyBVL43Ode2_9xk4/edit?usp=sharing)
 
 ### 📈 Closing ceremonies slides (Template)
 Slides to present finalists of hackathon and prizes of sponsors at the end of the hackathon. 

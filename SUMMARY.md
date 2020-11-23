@@ -14,6 +14,7 @@
 ## Food
 - [Coffee](Food/coffee.md)
 - [Menu](Food/menu.md)
+- [Snacks list](Food/costco.md)
 
 ## Venue
 
